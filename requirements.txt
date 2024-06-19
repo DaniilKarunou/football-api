@@ -1,0 +1,12 @@
+#fastapi
+sqlalchemy
+pydantic
+requests
+pyodbc
+python-dotenv
+pydantic-settings
+
+streamlit
+plotly
+pandas
+numpy
