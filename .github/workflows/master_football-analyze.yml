@@ -75,9 +75,4 @@ jobs:
         with:
           app-name: 'football-analyze'
           slot-name: 'Production'
-
-      - name: Start Streamlit
-        run: |
-          source venv/bin/activate
-          streamlit run app.py --server.port $PORT --server.address 0.0.0.0
           
